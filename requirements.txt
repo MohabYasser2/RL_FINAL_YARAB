@@ -1,0 +1,21 @@
+# Core dependencies
+numpy>=1.21.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Gymnasium and Atari
+gymnasium>=0.29.0
+gymnasium[atari]>=0.29.0
+ale-py>=0.8.0
+autorom[accept-rom-license]>=0.4.2
+
+# Image processing
+opencv-python>=4.8.0
+pillow>=9.0.0
+
+# Logging and tracking
+wandb>=0.15.0
+
+# Utilities
+tqdm>=4.65.0
+matplotlib>=3.5.0
